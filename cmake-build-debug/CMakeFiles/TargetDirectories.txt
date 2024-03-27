@@ -1,0 +1,3 @@
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/cmake-build-debug/CMakeFiles/splendor.dir
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/extend.cpp
+extend.h
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/extend.h
+
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/extend.h
+splendor.h
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/splendor.h
+
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/main.cpp
+splendor.h
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/splendor.h
+
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/splendor.cpp
+splendor.h
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/splendor.h
+
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/splendor.h
+extend.h
+C:/Users/TinyYixin/Desktop/Projet/splendor/splendor/extend.h
+iostream
+-
+string
+-
+vector
+-
+time.h
+-
+cstring
+-
+stdlib.h
+-
+
